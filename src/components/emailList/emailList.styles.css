@@ -1,0 +1,16 @@
+/* .emailList {
+    display: block;
+    width: auto;
+    margin: 0 auto;
+    padding-bottom: 28px;
+
+} */
+
+.emailList {
+    /* width: 58px; */
+    margin: 16px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start; 
+    }
+
